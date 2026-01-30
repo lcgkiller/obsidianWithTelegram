@@ -19,7 +19,7 @@ Python 3.8 이상이 필요합니다.
 pip install python-telegram-bot
 ```
 
-### 1.5. 텔레그램 봇 토큰 발급
+### 1.1 텔레그램 봇 토큰 발급
 
 1. 텔레그램에서 **[@BotFather](https://t.me/botfather)**를 검색하여 대화를 시작합니다.
 2. `/newbot` 명령어를 입력하여 새로운 봇 생성을 시작합니다.

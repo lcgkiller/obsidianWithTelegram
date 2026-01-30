@@ -19,6 +19,14 @@ Python 3.8 이상이 필요합니다.
 pip install python-telegram-bot
 ```
 
+### 1.5. 텔레그램 봇 토큰 발급
+
+1. 텔레그램에서 **[@BotFather](https://t.me/botfather)**를 검색하여 대화를 시작합니다.
+2. `/newbot` 명령어를 입력하여 새로운 봇 생성을 시작합니다.
+3. 봇의 이름(Name)을 입력합니다. (예: `My Todo Bot`)
+4. 봇의 유저네임(Username)을 입력합니다. 이는 반드시 `bot`으로 끝나야 합니다. (예: `mytodo_bot`)
+5. 생성이 완료되면 발급되는 **HTTP API Token**을 복사합니다. 이 토큰은 `config.py` 설정에 사용됩니다.
+
 ### 2. 설정 파일 구성
 
 `config.example.py` 파일을 `config.py`로 복사하고, 자신의 환경에 맞게 수정합니다.

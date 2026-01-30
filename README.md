@@ -52,7 +52,7 @@ python telegram_bot.py
 > 봇: ✅ 추가됨: 내일 회의 준비하기
 
 **Obsidian 결과:**
-<img width="519" height="142" alt="image" src="https://github.com/user-attachments/assets/82686177-3597-4fd3-918d-69378789ae9e" />
+> <img width="519" height="142" alt="image" src="https://github.com/user-attachments/assets/82686177-3597-4fd3-918d-69378789ae9e" />
 
 ```markdown
 # 2026-01-30
